@@ -1,0 +1,15 @@
+.carousel-item {
+  background-size: cover;
+  background-position: center;
+}
+@media (max-width: 768px) {
+  h2 {
+    font-size: 24px; /* Adjust size */
+  }
+  .carousel-container p {
+    font-size: 14px; /* Adjust size for body text */
+  }
+  .logo h1 {
+    font-size: 18px; /* Adjust logo size */
+  }
+}
